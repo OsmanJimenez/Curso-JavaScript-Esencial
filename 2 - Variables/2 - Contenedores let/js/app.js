@@ -1,5 +1,8 @@
 "use strict"
 
+/* Es recomendable utilizar "var" para declarar variables globales
+y "let" para declarar variables locales */
+
 var nombre = 'Sergio';
 
 console.log(nombre)

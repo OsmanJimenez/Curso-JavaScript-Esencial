@@ -11,6 +11,8 @@ var personas = [
     persona
 ]
 
+// stringiy convierte el contenido almacenado en una variable en una cadena de texto
 var personaJSON = JSON.stringify(persona);
 
+// parse obtiene el contenido estructurado almacenado en una variable 
 var nuevaPersona = JSON.parse(personaJSON)
