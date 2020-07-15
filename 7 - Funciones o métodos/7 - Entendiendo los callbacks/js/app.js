@@ -1,7 +1,7 @@
 "use strict"
 
 //********************************
-//*** Calllbacks
+//*** Calllbacks permiten enviar funciones como parametros
 
 function calcular(datoA, datoB, sumarCB, restarCB) {
     var suma = datoA + datoB
