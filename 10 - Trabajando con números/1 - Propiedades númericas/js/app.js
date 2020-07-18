@@ -9,6 +9,6 @@ console.log("MIN_VALUE: ", Number.MIN_VALUE);
 
 console.log("NEGATIVE_INFINITY: ", Number.NEGATIVE_INFINITY);
 
-console.log("NEGATIVE_INFINITY: ", Number.POSITIVE_INFINITY);
+console.log("POSITIVE_INFINITY: ", Number.POSITIVE_INFINITY);
 
 console.log("NaN: ", Number.NaN);
