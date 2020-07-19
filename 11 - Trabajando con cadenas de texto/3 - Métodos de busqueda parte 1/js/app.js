@@ -7,19 +7,19 @@ var mensaje = "Estoy aprendiendo JavaScript y estoy aprendiendo mucho";
 
 var resultado;
 
-// indexOf
+// indexOf Nos mostrara la posicion en que se encuentra la primera sentencia que estamos buscando desde el inicio
 // resultado = mensaje.indexOf("aprendiendo");
 
 
-// lastIndexOf
+// lastIndexOf Nos mostrara la posicion en que se encuentra la ultima sentencia que estamos buscando desde el final
 //resultado = mensaje.lastIndexOf("aprendiendo");
 
 
-// search:
+// search: Nos mostrara la posicion en que se encuentra la primera sentencia que estamos buscando desde el inicio
 //resultado = mensaje.search("aprendiendo");
 
 
-// search | Expresión regular
+// search | Expresión regular: Buscara la sentencia sin importar si esta en mayuscula o minuscula
 resultado = mensaje.search(/ja/i);
 
 

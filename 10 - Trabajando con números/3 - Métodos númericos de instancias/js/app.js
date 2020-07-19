@@ -5,7 +5,7 @@
 
 var numero = 2.5;
 
-console.log("toExponential: ", numero.toExponential(4));
+console.log("toExponential: ", numero.toExponential(4));//
 
 console.log("toFixed: ", numero.toFixed(2));
 
