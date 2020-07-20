@@ -10,7 +10,7 @@ try {
     if (valor1 > valor2) {
         console.log(`Mensaje de validación: ${valor1} si es mayor que ${valor2}`);
     } else {
-        throw new Error(`${valor1} no es mayor que ${valor2} :(`)
+        throw new Error(`${valor1} no es mayor que ${valor2} :(`) //Con esta sentencia envio el mensaje de error que deseo mostrar
     }
 
 } catch (error) {

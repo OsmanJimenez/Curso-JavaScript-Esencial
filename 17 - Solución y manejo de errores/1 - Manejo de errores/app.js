@@ -10,5 +10,5 @@ try {
      decodeURIComponent("http://%ominio.com");
 } catch (error) {
     console.log(error.message)
-     console.log(error.name)
+    console.log(error.name)
 }

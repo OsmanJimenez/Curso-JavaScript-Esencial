@@ -22,6 +22,8 @@ class Pantalla {
         console.log(`La pantalla ${this.marca} de modelo ${this.modelo} es de ${this.pulgadas} pulgadas`);
     }
 
+    //Para invocar la funcion solo basta con escribir "tvSala.info()"
+
     set peso(value) {
         this.kgs = value.trim();
     }
