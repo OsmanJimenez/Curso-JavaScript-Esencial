@@ -3,8 +3,8 @@
  * [nombre description]
  * @type {String}
  */
-var nombre = "yacafx",
-    email = "sergiobritor@gmail.com";
+var nombre = "osmanjimenezdev",
+    email = "osmanjimenez.dev@gmail.com";
 
 /**
 *	Función parar enviar saludos

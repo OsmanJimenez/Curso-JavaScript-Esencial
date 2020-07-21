@@ -2,7 +2,7 @@
 
 // JSON => JavaScript Object Notation
 
-var persona = {nombre: 'Sergio', twitter: 'yacafx'};
+var persona = {nombre: 'Osman', twitter: 'osmanjimenezdev'};
 
 var personas = [
     {nombre: 'Hugo', twitter: 'dcHugo'},

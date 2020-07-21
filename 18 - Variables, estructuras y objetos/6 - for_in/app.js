@@ -1,7 +1,7 @@
 var persona = {
-	nombre: "Sergio",
-	email: "sergiobritor@gmail.com",
-	twitter: "yacafx",
+	nombre: "Osman",
+	email: "osmanjimenez.dev@gmail.com",
+	twitter: "osmanjimenezdev",
 	saludar: function(){
 		return "Hola mundo"
 	}

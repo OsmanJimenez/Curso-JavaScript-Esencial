@@ -1,6 +1,6 @@
-var nombreCompleto = "Sergio Brito";
+var nombreCompleto = "Osman Jimenez";
 
-var nombre_completo = "Sergio Brito";
+var nombre_completo = "Osman Jimenez";
 
 
 function saludarPersona(){

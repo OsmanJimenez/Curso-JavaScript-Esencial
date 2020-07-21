@@ -3,12 +3,12 @@
 /* Es recomendable utilizar "var" para declarar variables globales
 y "let" para declarar variables locales */
 
-var nombre = 'Sergio';
+var nombre = 'Osman';
 
 console.log(nombre)
 
 function saludo() {
-  let nombre = 'yacafx';
+  let nombre = 'osmanjimenezdev';
     console.log(nombre)
     
  let edad = 34; 
